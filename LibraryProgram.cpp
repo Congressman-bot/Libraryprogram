@@ -1,3 +1,4 @@
+// Program to monitor the borrowing of library books
 #include <iostream>
 #include <cmath>
 using namespace std;
@@ -19,6 +20,7 @@ int calcFine(int daysOverdue){
     }
 }
 
+// Main function
 int main(){
 	
 	// declaration of variables
@@ -46,4 +48,5 @@ int main(){
     
     return 0;
 }
+// End of the program
     
